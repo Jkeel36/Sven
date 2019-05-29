@@ -1,4 +1,4 @@
-Smart Vending Machine Upgrades
+Sven Smart Vending Machine Upgrades
 
 See: https://repl.it/@jkeel36/Java-Sven-version-1-1-Real
 
