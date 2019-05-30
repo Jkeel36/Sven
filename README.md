@@ -11,3 +11,5 @@ The upgrade that I added was the ability to use lowercase letters to select and 
 'else if (userMenuChoice.equals("2") || userMenuChoice.equals("C") || userMenuChoice.equals("c"))'
 
 'else if (userMenuChoice.equals("3") || userMenuChoice.equals("E") || userMenuChoice.equals("e"))'
+
+I also added the ability to play a hidden "Easter Egg" game when the right code word is typed in. This code can be found in the Hangman.java file.
