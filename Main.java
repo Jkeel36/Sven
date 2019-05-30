@@ -82,8 +82,14 @@ class Main
     {
       System.out.println("You have chosen to exit. Have a nice day!");
     }
+    else if (userMenuChoice.equals("minich") || userMenuChoice.equals("Minich") || userMenuChoice.equals("MINICH"))
+    {
+      System.out.println("YOU HAVE ENTERED GAME MODE");
+      Hangman game = new Hangman();
+          game.play();
+    }
 
-  } // end of main method
+    } // end of main method
 
   // display menu
   public static void displayMenu()
