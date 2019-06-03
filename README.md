@@ -21,4 +21,5 @@ I also added the ability to play a hidden "Easter Egg" game when the right code 
       System.out.println("YOU HAVE ENTERED GAME MODE");
       Hangman game = new Hangman();
           game.play();
-    }```
+    }
+```
