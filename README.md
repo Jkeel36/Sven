@@ -15,3 +15,10 @@ else if (userMenuChoice.equals("3") || userMenuChoice.equals("E") || userMenuCho
 ```
 
 I also added the ability to play a hidden "Easter Egg" game when the right code word is typed in. This code can be found in the Hangman.java file.
+
+```else if (userMenuChoice.equals("minich") || userMenuChoice.equals("Minich") || userMenuChoice.equals("MINICH"))
+    {
+      System.out.println("YOU HAVE ENTERED GAME MODE");
+      Hangman game = new Hangman();
+          game.play();
+    }```
