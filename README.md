@@ -14,7 +14,7 @@ else if (userMenuChoice.equals("2") || userMenuChoice.equals("C") || userMenuCho
 else if (userMenuChoice.equals("3") || userMenuChoice.equals("E") || userMenuChoice.equals("e"))
 ```
 
-I also added the ability to play a hidden "Easter Egg" game when the right code word is typed in. The code that calls this method can be seen below. The actual class can be found in the Hangman.java file.
+I also added the ability to play a hidden "Easter Egg" game when the right code word is typed in. The code that calls this method can be seen below. The actual class can be found in the Hangman.java file here: https://github.com/Jkeel36/Sven/blob/master/Hangman.java
 
 ```else if (userMenuChoice.equals("minich") || userMenuChoice.equals("Minich") || userMenuChoice.equals("MINICH"))
     {
